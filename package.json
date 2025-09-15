@@ -3,9 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vercel dev --listen 3001",
-    "build": "echo \"Vercel functions: no build step needed\"",
-    "start": "vercel dev --listen 3001"
+    "dev": "vercel dev --listen 3001"
   },
   "devDependencies": {
     "@vercel/node": "latest",
