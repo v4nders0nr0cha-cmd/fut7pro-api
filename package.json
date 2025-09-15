@@ -1,0 +1,14 @@
+{
+  "name": "fut7pro-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev --listen 3001",
+    "build": "echo \"Vercel functions: no build step needed\"",
+    "start": "vercel dev --listen 3001"
+  },
+  "devDependencies": {
+    "@vercel/node": "latest",
+    "typescript": "^5.5.4"
+  }
+}
